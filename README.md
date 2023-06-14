@@ -20,7 +20,7 @@
 
 Благодарю за то что посетили мой профиль!
 
-Личное благодарство за помощь: [Xinboshin Efistrellerov](https://github.com/xinboshin)
+Личное благодарство за помощь и поддержку: [Xinboshin Efistrellerov](https://github.com/xinboshin)
 ---
 
-Свежесть редакция: 15/06/2023 01:46
+Свежесть редакция: 15/06/2023 01:53
