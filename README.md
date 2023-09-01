@@ -21,7 +21,7 @@
 
 Благодарю за то что посетили мой профиль!
 
-Личное благодарство за помощь и поддержку: [Xinboshin (ElizabethAvergini)](https://github.com/ElizabethAvergini)
+Личное благодарство за помощь и поддержку: [XinboshinAvergini](https://github.com/XinboshinAvergini)
 ---
 
-Свежесть редакции: 13/08/2023 21:55
+Свежесть редакции: 01/09/2023 1937
