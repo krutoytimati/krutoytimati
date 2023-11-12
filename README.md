@@ -17,7 +17,7 @@
 
 <br>
 <br>
-<img src = "https://github-readme-stats.vercel.app/api?username=krutoytimati&show_icons=true&theme=transparent" width = 500>
+<img src = "https://github-readme-stats.vercel.app/api?username=okogexy&show_icons=true&theme=transparent" width = 500>
 
 Благодарю за то что посетили мой профиль!
 
