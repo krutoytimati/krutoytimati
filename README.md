@@ -1,6 +1,6 @@
-<h1>Привет, я <a  href="https://github.com/krutoytimati/">Тимур Кац</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Привет, я <a  href="https://github.com/okogexy/">OKOGEXY</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<img src="https://komarev.com/ghpvc/?username=krutoytimati&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=okogexy&style=plastic" />
 
 Привет, я начинающий разработчик модификаций и серверов, также учусь разрабатывать моды и плагины на заказ.<br>
 
@@ -24,4 +24,4 @@
 Личное благодарство за помощь и поддержку: [XinboshinAvergini](https://github.com/XinboshinAvergini)
 ---
 
-Свежесть редакции: 12/11/2023 17:24
+Свежесть редакции: 19/11/2023 22:22
